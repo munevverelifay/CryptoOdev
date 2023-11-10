@@ -1,2 +1,13 @@
-# CryptoOdev
-![Simulator Screen Recording - iPhone 15 - 2023-10-21 at 17 22 54](https://github.com/munevverelifay/CryptoOdev/assets/105984573/8f72a40f-7011-437f-901f-46aec3ed9218)
+## Description
+<p>Coderspace and Pazarama's iOS Bootcamp assignment.</p>
+
+
+## Technologies and Libraries
+- 👩‍💻 Programmatic Layout
+- 👩‍💻 UICollectionViewCompositionalLayout
+- 👩‍💻 Custom CollectionViewCell
+- 👩‍💻 Custom Extensions
+
+<p align="center">
+  <img src="https://github.com/munevverelifay/CryptoOdev/assets/105984573/8f72a40f-7011-437f-901f-46aec3ed9218" alt="Crypto Project">
+</p>
